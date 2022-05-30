@@ -1,3 +1,28 @@
 body{
-    background: blue;
+    background: white;
 }
+h1{
+    text-align: center;
+}
+body p{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: 'Courier New', Courier, monospace;
+}
+figcaption{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+body img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 400px;
+    filter: grayscale(80%);
+}
+button{
+    text-align: center;
+}
+
